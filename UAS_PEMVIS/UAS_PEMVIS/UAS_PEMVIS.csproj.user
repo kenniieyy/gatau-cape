@@ -4,10 +4,16 @@
     <Compile Update="Login.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Resources\Barang.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Resources\Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Resources\Kasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\Transaksi.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
